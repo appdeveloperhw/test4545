@@ -1,0 +1,28 @@
+.cursorIcon {
+  position: absolute;
+  height: 29.12%;
+  width: 26.92%;
+  top: 30.47%;
+  right: 39.18%;
+  bottom: 40.41%;
+  left: 33.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleWrapper {
+  position: absolute;
+  height: 11.29%;
+  width: 14.66%;
+  top: 36.12%;
+  right: 75.96%;
+  bottom: 52.6%;
+  left: 9.38%;
+}
+.cursorParent {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 443px;
+  overflow: hidden;
+}
